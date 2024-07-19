@@ -3,7 +3,7 @@
                  <head>
                    <meta charset="utr-8">
                    <title>papa diop cake</title>
-                <head>
+                </head>
                 <bady>
                     <h1>formation informatique </h1>
                      <p>burotique</p><br>
@@ -11,5 +11,5 @@
                      <h2>formation graphisme </h2>
                      <p>montage photo </p><pr>
                      <p>logo et vidéos </p><pr>
-                <bady>
-       <HTML>
+                </bady>
+       </HTML>
